@@ -3,6 +3,8 @@
 
 <img src="https://i.imgur.com/ZvCsALE.png">
 
+📱 Android Mobile Developer
+👨🏼‍💻 + 6 years experience
 <!--
 **lintz18/lintz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
