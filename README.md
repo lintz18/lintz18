@@ -6,6 +6,7 @@
 ## About me
 - 📱 Android Mobile Developer
 - 👨🏼‍💻 + 6 years experience
+- ⚡ Java, Kotlin and Compose
 <!--
 **lintz18/lintz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
